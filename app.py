@@ -24,7 +24,7 @@ colores = [
 almacenamientos = ["128GB", "256GB", "512GB", "1TB"]
 
 # --- INTERFAZ GRÁFICA ---
-st.title("📱 Venta de iPhones Exclusiva")
+st.title("📱 IspotCBA AREA VENTAS TELEFONOS")
 st.markdown("Selecciona tu modelo favorito y coordina el envío directamente por WhatsApp.")
 st.divider()
 
@@ -96,5 +96,6 @@ with st.container():
 # --- PIE DE PÁGINA ---
 st.markdown("---")
 st.caption("🔒 Compra segura. Los precios y disponibilidad final se confirman por chat.")
+
 
 
